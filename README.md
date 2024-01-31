@@ -6,7 +6,7 @@
 ## <div align="center">Hola soy Leenh, un desarrollador 👨‍💻  backend, frontend y dba a tiempo completo.🚀</div>  
   
 
-#### <div align="center">Soy un joven aficionado a la tecnología desde muy temprana edad, sin mencionar que desarrolle mi primera pagina web a los 14 años, desde entonces estudie la carrera de ingeniera de sistemas y actualmente estoy en 10mo ciclo y trabajo a medio tiempo como <b>full-stack developer</b>.</div>  
+#### <div align="center">Soy un joven aficionado a la tecnología desde muy temprana edad, sin mencionar que desarrolle mi primera pagina web a los 14 años, desde entonces estudie la carrera de ingeniera de sistemas y actualmente soy bachiller en ingenieria de sistemas además trabajo a medio tiempo como <b>full-stack developer</b>.</div>  
   
 
 <br/>  
